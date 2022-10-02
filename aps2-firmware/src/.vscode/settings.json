@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "aux_rtos.h": "c",
+        "clock_img.h": "c",
+        "aux_screens.h": "c",
+        "aux_time.h": "c"
+    }
+}
